@@ -222,7 +222,7 @@ h5 {
 }
 
 .col8 {
-  width: 100%;
+  width: 63.66667%;
 }
 
 .col9 {
@@ -720,6 +720,10 @@ h5 {
   font-size: 2rem;
 }
 
+.size22 {
+  font-size: 2rem;
+}
+
 .size3 {
   font-size: 3rem;
 }
@@ -737,7 +741,7 @@ h5 {
 }
 
 .size555 {
-  font-size: 4.7rem;
+  font-size: 5rem;
 }
 
 .size6 {
@@ -962,7 +966,7 @@ h5 {
 }
 
 .spacebottom1 {
-  margin-bottom: 1rem;
+  margin-bottom: 4rem;
 }
 
 .spaceright1 {
@@ -1058,7 +1062,7 @@ h5 {
 }
 
 .spacebottom3 {
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .spaceright3 {
@@ -1634,7 +1638,7 @@ h5 {
 }
 
 .spacetop15 {
-  margin-top: 13rem;
+  margin-top: 13.2rem;
 }
 
 .spacebottom15 {
@@ -3357,7 +3361,7 @@ h5 {
 }
 
 .width122 {
-  width: 23%;
+  width: 25%;
 }
 
 @media screen and (max-width: 1024px) {
