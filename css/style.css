@@ -206,7 +206,7 @@ h5 {
 }
 
 .col5 {
-  width: 42%;
+  width: 45%;
 }
 
 .col15 {
@@ -222,7 +222,7 @@ h5 {
 }
 
 .col8 {
-  width: 68%;
+  width: 65%;
 }
 
 .col9 {
@@ -741,7 +741,7 @@ h5 {
 }
 
 .size555 {
-  font-size: 4.5rem;
+  font-size: 4.8rem;
 }
 
 .size6 {
@@ -1638,7 +1638,7 @@ h5 {
 }
 
 .spacetop15 {
-  margin-top: 12rem;
+  margin-top: 13rem;
 }
 
 .spacebottom15 {
@@ -3377,8 +3377,8 @@ h5 {
 }
 
 .btn {
-  padding: 1rem 2.3rem;
-  font-size: 2rem;
+  padding: 1rem 2.4rem;
+  font-size: 2.4rem;
   border-radius: 10px;
   cursor: pointer;
 }
