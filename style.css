@@ -84,7 +84,7 @@ h5 {
 }
 
 .container {
-  max-width: 1500px;
+  max-width: 1300px;
   width: 90%;
   margin: 0 auto;
 }
@@ -206,7 +206,7 @@ h5 {
 }
 
 .col5 {
-  width: 42%;
+  width: 45%;
 }
 
 .col15 {
@@ -222,7 +222,7 @@ h5 {
 }
 
 .col8 {
-  width: 68%;
+  width: 67%;
 }
 
 .col9 {
@@ -725,7 +725,7 @@ h5 {
 }
 
 .size3 {
-  font-size: 3rem;
+  font-size: 3.5rem;
 }
 
 .size33 {
@@ -741,7 +741,7 @@ h5 {
 }
 
 .size555 {
-  font-size: 5rem;
+  font-size: 4.8rem;
 }
 
 .size6 {
@@ -966,7 +966,7 @@ h5 {
 }
 
 .spacebottom1 {
-  margin-bottom: 4rem;
+  margin-bottom: 5rem;
 }
 
 .spaceright1 {
@@ -3361,7 +3361,7 @@ h5 {
 }
 
 .width122 {
-  width: 25%;
+  width: 22%;
 }
 
 @media screen and (max-width: 1024px) {
@@ -3377,8 +3377,8 @@ h5 {
 }
 
 .btn {
-  padding: 1rem 2.3rem;
-  font-size: 2rem;
+  padding: 1rem 2.6rem;
+  font-size: 2.3rem;
   border-radius: 10px;
   cursor: pointer;
 }
