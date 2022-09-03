@@ -84,7 +84,7 @@ h5 {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 1300px;
   width: 90%;
   margin: 0 auto;
 }
@@ -741,7 +741,7 @@ h5 {
 }
 
 .size555 {
-  font-size: 5rem;
+  font-size: 4.5rem;
 }
 
 .size6 {
@@ -1638,7 +1638,7 @@ h5 {
 }
 
 .spacetop15 {
-  margin-top: 13.2rem;
+  margin-top: 15rem;
 }
 
 .spacebottom15 {
@@ -3377,7 +3377,7 @@ h5 {
 }
 
 .btn {
-  padding: 1rem 2rem;
+  padding: 1rem 2.3rem;
   font-size: 2rem;
   border-radius: 10px;
   cursor: pointer;
