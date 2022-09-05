@@ -3747,7 +3747,7 @@ header .container .menu a:hover {
 
 .card-creator {
   border-radius: 10px;
-  padding-bottom: 30px;
+  padding-bottom: 42px;
 }
 
 .card-creator .desc {
@@ -3774,6 +3774,34 @@ header .container .menu a:hover {
 }
 
 .card-creator img.photo {
+  width: 99px;
+  margin-top: -5.3rem;
+}
+
+.card-creator2 .desc {
+  font-size: 1.5rem;
+}
+
+.card-creator2 .follow {
+  padding: 1rem 11rem;
+  font-size: 2rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.card-creator2 .follow:hover {
+  background: transparent;
+  border: 1px solid #A24BF8;
+  color: #A24BF8;
+}
+
+.card-creator2:hover {
+  background: rgba(255, 255, 255, 0.5);
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+
+.card-creator2 img.photo {
   width: 99px;
   margin-top: -5.3rem;
 }
