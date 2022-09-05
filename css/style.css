@@ -3387,6 +3387,13 @@ h5 {
   cursor: pointer;
 }
 
+.btn2 {
+  padding: 1rem 2.6rem;
+  font-size: 2rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
 .btn:hover {
   background: rgba(255, 255, 255, 0.5);
 }
