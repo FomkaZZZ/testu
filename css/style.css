@@ -3778,6 +3778,11 @@ header .container .menu a:hover {
   margin-top: -5.3rem;
 }
 
+.card-creator2 {
+  border-radius: 10px;
+  padding-bottom: 25px;
+}
+
 .card-creator2 .desc {
   font-size: 1.5rem;
 }
